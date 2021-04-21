@@ -1,5 +1,8 @@
 Alien Invasion
 ==============
+
+https://github.com/bbennett36/release-based-workflow
+
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
